@@ -4,3 +4,4 @@ while x<n:
     x= x*2  
 print(x)
 print("salam asal")
+print("moz:>")
